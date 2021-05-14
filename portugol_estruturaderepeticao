@@ -1,0 +1,49 @@
+programa
+{
+
+    funcao inicio()
+    {
+
+        inteiro menu,menu2
+        menu = 0
+        menu2 = 0
+        escreva("Escolha entre as opções a seguir: 1- Finalizar programa ou 2- Imprimir uma tabuada" + "\n")
+        leia (menu)
+
+        escolha (menu)
+        {
+        	caso 1: 
+        	escreva("Ok, finalizando ....")
+        	pare
+        	caso 2:
+        	faca{
+          	inteiro contador,limite,resultado,tabuada
+        		contador = 0
+        		        		        
+        		escreva("Informe um número que vou imprimir sua tabuada até o limite x (definido por você)" + "\n" + "Tabuada do: ")
+        		leia(tabuada)
+        		escreva("Informe o limite x (multiplicador)")
+        		leia(limite)
+        		faca{
+        		resultado = tabuada * contador
+        		escreva(tabuada + " x " + contador + " = " + resultado + "\n")
+        		contador ++
+        	
+        		}enquanto (contador<=limite)
+        	      	
+        			
+		escreva("Escolha entre as opções a seguir: 1- Finalizar programa ou 2- Imprimir uma tabuada" + "\n")
+        	leia (menu2)	  
+        	  
+        	
+        		}enquanto (menu2==2)
+        	caso contrario:
+        	inicio ()	
+        	}
+        }
+      
+        
+      
+        	
+      
+}
