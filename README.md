@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rodsrcarvalho
-- 👀 I’m interested in quality assurance and full stack development
-- 🌱 I’m currently learning quality assurance on a bootcamp of digitalinnovation.one
-- 💞️ I’m looking to collaborate on quality assurance
+- 👀 I’m interested in Python, quality assurance and full stack development
+- 🌱 I’m currently learning Python on a corse of Dio - digitalinnovation.one (www.dio.me)
+- 💞️ I’m looking to collaborate on Python
 - 📫 How to reach me rodsrcarvalho@gmail.com
 
 <!---
