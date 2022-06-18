@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rodsrcarvalho
 - 👀 I’m interested in Python
-- 🌱 I’m currently learning Python on a corse of Dio - digitalinnovation.one (www.dio.me)
+- 🌱 I’m currently learning Python on a course of Dio - digitalinnovation.one (www.dio.me)
 - 💞️ I’m looking to collaborate on Python
 - 📫 How to reach me rodsrcarvalho@gmail.com
 
